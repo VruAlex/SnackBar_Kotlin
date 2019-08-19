@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SnackBar_Kotlin</string>
+
+    <string name="click">Click</string>
+    <string name="email">Email</string>
+    <string name="undo">Undo</string>
+
+</resources>
